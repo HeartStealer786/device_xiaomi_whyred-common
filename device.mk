@@ -96,3 +96,4 @@ $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
 # Platform
 PRODUCT_USES_QCOM_HARDWARE := true
 PRODUCT_BOARD_PLATFORM := msm8998
+
