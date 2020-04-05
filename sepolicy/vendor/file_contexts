@@ -1,0 +1,5 @@
+# Light HAL
+/(vendor|system/vendor)/bin/hw/android\.hardware\.light@2\.0-service\.xiaomi_whyred                     u:object_r:hal_light_default_exec:s0
+
+# Touchscreen Gestures
+/proc/wake_gesture u:object_r:sysfs_tap_to_wake:s0
